@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "index",
+  "usingComponents": {
+    "h-scroll": "/components/scroll"
+  }
+}

@@ -1,0 +1,31 @@
+.leftListItem {
+  color: #333;
+  -webkit-transition: color 0.3s;
+  -o-transition: color 0.3s;
+  transition: color 0.3s;
+  border-bottom: 1px solid #ccc;
+  font-size: 32rpx;
+  line-height: 500rpx;
+}
+.active {
+  color: red;
+}
+.content {
+  width: 100%;
+}
+.left,
+.right {
+  float: left;
+}
+.left {
+  width: 70%;
+}
+.left {
+  width: 30%;
+}
+.right,
+.left {
+  height: 600px;
+  overflow: hidden;
+}
+

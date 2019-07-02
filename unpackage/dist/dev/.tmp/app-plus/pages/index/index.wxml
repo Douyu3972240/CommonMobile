@@ -1,0 +1,1 @@
+<view><h-scroll vue-id="1" bind:__l="__l"></h-scroll></view>
